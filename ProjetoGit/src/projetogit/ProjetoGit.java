@@ -19,6 +19,7 @@ public class ProjetoGit {
         System.out.println("Teste Alterado");
         System.out.println("Welenton passou aqui!");
         System.out.println("Jaison tambem passou aqui!");
+        System.out.println("Teste Finalizado");
     }
     
 }
