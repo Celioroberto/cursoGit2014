@@ -20,6 +20,7 @@ public class ProjetoGit {
         System.out.println("Welenton passou aqui!");
         System.out.println("Jaison tambem passou aqui!");
         System.out.println("Dalmolin tambem passou aqui!");
+        System.out.println("Pedro tambem passou aqui!")
         System.out.println("Teste Finalizado");
     }
     
